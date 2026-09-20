@@ -1,0 +1,68 @@
+version: 1
+title: '샤오타오의 이야기 정원: 뱀에게 발을 그리면'
+slug: translation-42-ko-a5faea
+summary: 뱀을 먼저 완성한 아허는 발도 그려 주고 싶어졌어요. 샤오타오가 꼬리를 마무리하는 사이, 아허의 그림은 다른 모습이 됩니다. 상상과
+  목적, 멈출 때를 생각하는 여섯 장면의 이야기예요.
+cover_color: '#458f87'
+cover_asset: assets/52cf4a761c6b1c0e1afd33aab29a4077f5e124e69130f168e733fa73e3e962f4.webp
+share_card: null
+author: Humanread Founder
+metadata:
+  age_rating: all
+  content_warnings: ''
+  language: ko
+  primary_genre: youth
+  secondary_genre: literary
+  serial_status: completed
+  tags:
+  - fable
+  - picture-book
+  - CSS-animation
+  warning_level: none
+translation:
+  authorization: self
+  original_author: Humanread Founder
+  source_content_hash: ecb1b6f51aa267b32a5e63992981305897f16ec7a8f9cbec5eb0d7e64a6cd825
+  source_novel_id: 42
+  source_slug: novel-ffc97f0b-0aa517
+  source_title: 小桃的成語小院：畫蛇添足
+  source_version_id: 82
+  target_language: ko
+  translator: Humanread Founder
+chapters:
+- id: 785
+  title: 오늘은 뱀을 그려요
+  position: 1
+  file: chapters/0001-785.html
+  format: sandbox-html-css
+  share_card: null
+- id: 786
+  title: 먼저 멈춘 붓
+  position: 2
+  file: chapters/0002-786.html
+  format: sandbox-html-css
+  share_card: null
+- id: 787
+  title: 두 개, 그리고 두 개 더
+  position: 3
+  file: chapters/0003-787.html
+  format: sandbox-html-css
+  share_card: null
+- id: 788
+  title: 나란히 놓은 두 그림
+  position: 4
+  file: chapters/0004-788.html
+  format: sandbox-html-css
+  share_card: null
+- id: 789
+  title: 빨리 달리는 게 아니었어
+  position: 5
+  file: chapters/0005-789.html
+  format: sandbox-html-css
+  share_card: null
+- id: 790
+  title: 이 그림도 간직할래
+  position: 6
+  file: chapters/0006-790.html
+  format: sandbox-html-css
+  share_card: null
